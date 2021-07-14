@@ -1,3 +1,9 @@
+#TRIBUTE PAGE
+
+The subject of my tribue page is Hans Zimmer. I have a passion for movies and feel that music is a viatl piece of the eperience - maybe even a third of it. Hence it makes perfect sence for me to focus on one of cinema's finest composers. 
+
+By doing this challenge I gained a better understanding of HTML and CSS and how the two are connected. I was also better able to understand the properties within CSS such as padding and margins.
+
 # Precourse Personal Repo
 
 Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. Now that you have used GitHub Classroom to clone down this repo, have a try at the following:
