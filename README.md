@@ -1,4 +1,4 @@
-#TRIBUTE PAGE
+# TRIBUTE PAGE
 
 The subject of my tribue page is Hans Zimmer. I have a passion for movies and feel that music is a viatl piece of the eperience - maybe even a third of it. Hence it makes perfect sence for me to focus on one of cinema's finest composers. 
 
